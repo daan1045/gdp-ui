@@ -90,7 +90,7 @@ yarn add gdp-ui
 
 ```js
 import gdpUI from 'gdp-ui'
-import 'gdp-ui/lib/gdp-ui.css'
+import 'gdp-ui/dist/gdp-ui.css'
 
 Vue.use(gdpUI)
 ```
