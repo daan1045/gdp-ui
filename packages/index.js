@@ -12,7 +12,7 @@ import Switch from './switch'
 import CheckboxGroup from './checkboxGroup'
 import Form from './form'
 import FormItem from './formItem'
-import './fonts/iconfont.css'
+import './fonts/iconfont.scss'
 // 存储组件列表
 const components = [
   Button,

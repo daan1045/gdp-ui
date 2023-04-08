@@ -1,6 +1,8 @@
 @font-face {
-  font-family: "iconfont"; /* Project id  */
-  src: url('iconfont.ttf?t=1680357743089') format('truetype');
+  font-family: "iconfont"; /* Project id 3991203 */
+  src: url('./iconfont.woff2?t=1680670378095') format('woff2'),
+       url('./iconfont.woff?t=1680670378095') format('woff'),
+       url('./iconfont.ttf?t=1680670378095') format('truetype');
 }
 
 [class*=gdp-icon-] {
@@ -188,4 +190,3 @@
 .gdp-icon-element_icon1:before {
   content: "\e67f";
 }
-
