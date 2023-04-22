@@ -25,10 +25,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # 基本介绍
 
-## 课程介绍
-
-+ 做什么？
-
 ```
 Vue进阶-从0到1搭建UI组件库
 ```
